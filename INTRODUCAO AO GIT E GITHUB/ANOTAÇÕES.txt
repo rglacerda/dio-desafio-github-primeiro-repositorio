@@ -1,0 +1,3 @@
+LINK PARA DOWLOAD https://github.com/rglacerda/dio-desafio-github-primeiro-repositorio.git
+
+O GIT BASH É UM TERMINAL EXTENDIDO PARA OTIMIZAR O USO DO GIT
